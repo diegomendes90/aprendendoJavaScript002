@@ -22,7 +22,7 @@ footer {
     font: italic 10pt Arial;
     text-shadow: 1px 1px 0px black;
     color: white;
-}r
+}
 #btnverificar:focus, #anovalor:focus, #selmas:focus, #selfem:focus {
     border: solid 3px rgba(0, 0, 255, 0.699);
     font: bold 100% Arial;
