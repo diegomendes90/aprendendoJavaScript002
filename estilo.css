@@ -1,0 +1,30 @@
+body {
+    background-color: blue;
+}
+header {
+    font: normal 15pt Arial;
+    text-align: center;
+    text-shadow: 3px 3px 0px black;
+    color: rgb(255, 255, 255);
+}
+section {
+    font: normal 10pt Arial;
+    background-color: rgb(0, 255, 106);
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 5px 5px 10px black;
+    padding: 10px;
+    height: auto;
+    width: 460px;
+    margin: auto;
+}
+footer {
+    text-align: center;
+    font: italic 10pt Arial;
+    text-shadow: 1px 1px 0px black;
+    color: white;
+}r
+#btnverificar:focus, #anovalor:focus, #selmas:focus, #selfem:focus {
+    border: solid 3px rgba(0, 0, 255, 0.699);
+    font: bold 100% Arial;
+    box-shadow: 2px 2px 10px black;
+}
